@@ -1,0 +1,14 @@
+//Agregar cambios a tu carpeta
+git add -A
+
+//Confirmando cambios
+git commit -m "mensaje"
+
+//Abriendo puerto para cambio
+git pull 
+
+//Fusion de cambio
+git merge master
+
+//Subida al servidor
+git push origin master
